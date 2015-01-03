@@ -1,20 +1,18 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            dayt0n
+tagline:          ios researcher
+description:      Possibly one of the most magical places on the internet.
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           dayt0n
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            “ios researcher & engineer”
+  email:          daytonhasty@gmail.com
+  twitter:        daytonhasty
+  github:         dayt0n
+  instagram:      daytonhasty
+  location:       “Shelbyville, TN“
   # Plug in your disqus shortname!
 
 tools:
@@ -27,10 +25,7 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+    url: https://github.com/dayt0n
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: Cole Townsend
+Contact: cole@coletownsend.com
+Twitter: twnsndco
+Location: Buffalo, NY
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2015-01-02
+Standards: HTML, SCSS, Jekyll                        
+Software: git

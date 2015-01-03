@@ -1,6 +1,5 @@
 ---
+layout: page
+title: Downloads
 permalink: /downloads/index.html
-title: downloads
-description: ftp downloads.
-tags: [ ]
 ---

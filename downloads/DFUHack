@@ -1,0 +1,12 @@
+if [[ `irecovery -m` = "DFU Mode" ]]; then
+    echo ""
+else
+    echo "Please enter DFU Mode then, try again."
+    exit
+fi
+clear
+cd
+cd Desktop
+cd redsn0w.app
+cd Contents
+cd MacOS

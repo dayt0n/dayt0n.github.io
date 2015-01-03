@@ -8,4 +8,4 @@ Links:
 ======
 Hey, check out this laughing derp for a test!
 
-[CydiaIcon](https://sites.google.com/a/webbschool.com/dayt0nsdownloads/downloads/Icon-60.png?attredirects=0&d=1)
+[Click Me For a Laughing Derp](https://sites.google.com/site/dayt0nsfiles/downloads/275634_Papel-de-Parede-Meme-LOL_2048x1536.jpg?attredirects=0&d=1)

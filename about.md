@@ -8,10 +8,10 @@ image:
   feature: techpaper1.png
 ---
 
-I have been developing and `really` exploring iOS for about a year. That is half of the time I have had an iOS device. I will be creating a post explaining my experience with iOS and OS X later.
+I have been developing and **really** exploring iOS for about a year. That is half of the time I have had an iOS device. I will be creating a post explaining my experience with iOS and OS X later.
 
 ###Projects
-I am currently working on a downgrade for any `limera1n` devices. Other than that, you can find any project I have ever created or helped with on my [github](http://github.com/dayt0n). Here is a list if you are interested: 
+I am currently working on a downgrade for any `limera1n` devices. Other than that, you can find any project I have ever created or helped with on my [GitHub](http://github.com/dayt0n). Here is a list if you are interested: 
 
 * **AppPirate**, a program for iOS that installs unsigned applications.
 * **SSHLock**, a commandline utility for iOS to lock a device; even remotely if you wanted.

@@ -4,27 +4,13 @@
         <loc></loc>
     </url>
 
+    
     <url>
-        <loc>/downloads</loc>
-        </url>
-    <url>
-        <loc>/articles/test-post</loc>
+        <loc>/articles/what-is-limera1n</loc>
     </url>
     
     <url>
-        <loc>/articles/the-little-prince</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/post-with-figure</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/post-with-feature</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/longform-post</loc>
+        <loc>/articles/sshlock-explained</loc>
     </url>
     
 </urlset>

@@ -1,14 +1,14 @@
 /* TEAM */
-Creator: Cole Townsend
-Contact: cole@coletownsend.com
-Twitter: twnsndco
-Location: Buffalo, NY
+Creator: dayt0n
+Contact: daytonhasty@gmail.com
+Twitter: daytonhasty
+Location: “Shelbyville, TN“
                            
 /* THANKS */                           
 Creator of Balzac theme: Cole Townsend
 Twitter: @twnsndco
 
 /* SITE */                         
-Last update: 2015-01-02
+Last update: 2015-01-03
 Standards: HTML, SCSS, Jekyll                        
 Software: git

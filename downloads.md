@@ -2,6 +2,8 @@
 layout: page
 title: Downloads
 permalink: /downloads/index.html
+image:
+  feature: techpaper2.jpg
 ---
 
 Links:

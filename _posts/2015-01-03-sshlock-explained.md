@@ -35,4 +35,4 @@ I was playing with Conrad Kramer's utility [Open](http://cydia.saurik.com/packag
 <p></p><script type="text/javascript" src="http://modmyi.com/cstats/index.php?package=com.dayt0n.sshlock&output=text"></script>
 
 
-### -dayt0n
+<center><h3>-dayt0n</center></h3>

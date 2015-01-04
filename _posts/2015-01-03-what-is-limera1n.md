@@ -15,10 +15,7 @@ limera1n is a bootrom exploit found by `geohot` that works on all A4 and below d
 
 Code Executed
 =============
-
-
-```
-
+{% highlight c %}
 signed int __cdecl upload_exploit() {
 int device_type;
 signed int payload_address;
@@ -135,4 +132,4 @@ result = -1;
 
 return result;
 }
-```
+{% endhighlight %}

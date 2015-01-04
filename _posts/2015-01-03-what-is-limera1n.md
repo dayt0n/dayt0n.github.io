@@ -9,7 +9,7 @@ image:
 ---
 
 ## limera1n
-limera1n is a bootrom exploit found by `geohot` that works on all A4 and below devices. The last devices being the iPhone 4 GSM (1,1)(1,3) and the iPhone 4 CDMA (3,3). It is the last public bootrom exploit to be released to this day. A bootrom exploit is an exploit that can be run on a device with any iOS version. The reason I am talking about limera1n is because it will be mentioned often in my posts. I like to mess around with this exploit a lot and find out all of the cool stuff I can do with it. It has been made into a tethered jailbreak ([Mac](http://limera1n.com/limera1n.zip), [Windows](http://limera1n.com/limera1n.exe)) by geohot which you can untether using the `0x24000 Segment Overflow` exploit or the `Packet Filter Kernel Exploit`. 
+limera1n is a bootrom exploit found by `geohot` that works on all A4 and below devices. The last devices being the iPhone 4 GSM (1,1)(1,3) and the iPhone 4 CDMA (3,3). It is the last public bootrom exploit to be released to this day. A bootrom exploit is an exploit that can be run on a device with any iOS version. Basically meaning the device can be jailbroken for life. The reason I am talking about limera1n is because it will be mentioned often in my posts. I like to mess around with this exploit a lot and find out all of the cool stuff I can do with it. It has been made into a tethered jailbreak ([Mac](http://limera1n.com/limera1n.zip), [Windows](http://limera1n.com/limera1n.exe)) by geohot which you can untether using the `0x24000 Segment Overflow` exploit or the `Packet Filter Kernel Exploit`. 
 
 
 ## Code Executed
@@ -131,3 +131,8 @@ result = -1;
 return result;
 }
 {% endhighlight %}
+
+## limera1n For Newer Devices
+As of now there are no *public* bootrom exploits for any newer devices. [iH8sn0w](https://twitter.com/iH8sn0w/) has found a bootrom exploit for A5 and A5X devices, but has not shared it publicly. He has not done this because he says that with just a bit of tweaking he can make it work on newer devices (A5+). If he were to release it anytime soon, Apple is in a position to release a newer model of a device without any problem, effectivly patching it on half of the devices the bootrom exploit would work on.
+
+-> -dayt0n <-

@@ -135,4 +135,4 @@ return result;
 ## limera1n For Newer Devices
 As of now there are no *public* bootrom exploits for any newer devices. [iH8sn0w](https://twitter.com/iH8sn0w/) has found a bootrom exploit for A5 and A5X devices, but has not shared it publicly. He has not done this because he says that with just a bit of tweaking he can make it work on newer devices (A5+). If he were to release it anytime soon, Apple is in a position to release a newer model of a device without any problem, effectivly patching it on half of the devices the bootrom exploit would work on.
 
-->-dayt0n<-
+### -dayt0n

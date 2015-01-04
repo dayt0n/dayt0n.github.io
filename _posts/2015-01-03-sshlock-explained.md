@@ -33,6 +33,6 @@ I was playing with Conrad Kramer's utility [Open](http://cydia.saurik.com/packag
 
 ##### Number of Times SSHLock Has Been Downloaded:
 <p></p><script type="text/javascript" src="http://modmyi.com/cstats/index.php?package=com.dayt0n.sshlock&output=text"></script>
-+<p></p><iframe frameborder="0" src="http://www.youtube.com/embed/V5qT8EgSW7w?loop=1&autoplay=1&controls=0&showinfo=0&playlist=V5qT8EgSW7w" width="1000" height="931"></iframe>
+<p></p><iframe frameborder="0" src="http://www.youtube.com/embed/V5qT8EgSW7w?loop=1&autoplay=1&controls=0&showinfo=0&playlist=V5qT8EgSW7w" width="1000" height="931"></iframe>
 
 ### -dayt0n

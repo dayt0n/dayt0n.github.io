@@ -13,8 +13,8 @@ owner:
   github:         dayt0n
   instagram:      daytonhasty
   location:       “Shelbyville, TN“
-  disqus:         dayt0n
   # Plug in your disqus shortname!
+  disqus:         dayt0n
 
 tools:
   standards:      "HTML, SCSS, Jekyll"

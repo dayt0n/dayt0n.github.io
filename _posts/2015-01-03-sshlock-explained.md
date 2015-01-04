@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SSHLock Explained"
-description: "SSHLock is a command-line utility I created after finding a bug in com.apple.purplebuddy."
+description: "[SSHLock](http://cydia.saurik.com/package/com.dayt0n.sshlock/) is a command-line utility I created after finding a bug in com.apple.purplebuddy."
 category: articles
 tags: [sshlock, iOS, iOS 8, explained]
 image:

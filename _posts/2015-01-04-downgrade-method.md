@@ -16,7 +16,7 @@ First, please do a fresh restore on your phone with a default, signed iPSW. Set 
 
 Next, you will need to download the following items. Unzip if it is a zip file. I suggest you keep them on your desktop to have them easily accessible:
 
-* [The iPSW File you want to downgrade to](https://ipsw.me/) (Select iPhone 4 Model) If you are downgrading to iOS 6, download the <strong>6.0</strong> iPSW, not the one you want to downgrade to. 
+* <a href="https://ipsw.me" target="_blank">The iPSW file you want to downgrade to</a> (Select iPhone 4 Model) If you are downgrading to iOS 6, download the <strong>6.0</strong> iPSW, not the one you want to downgrade to. 
 * [iReb](https://github.com/iH8sn0w/iREB-2.0/releases/r7/1097/ireb-r7.zip)
 * [Redsn0w 0.9.15 Beta 3](http://www.jailbreaktools.com/downloads/windows/redsn0w-0.9.15b3.zip)
 * [iFaith](https://github.com/iH8sn0w/iFaith/releases/v1.5.9/1085/ifaith-v1.5.9.zip)
@@ -32,7 +32,7 @@ Plug your phone into your computer. If iTunes opens, exit out. Turn off your pho
 Now, hold down the Shift key and click `Restore iPhone`. Select the iFaith iPSW file you built earlier and the downgrade should start. <strong>Note that this does erase all content on the iPhone.</strong> You can exit out of iReb now. Now, just wait until the progess bar on the iPhone fills completely and iTunes either gives you an error at the end of the restore or a message saying the restore was completed. If you do get an error at that point, then it doesn't matter, the downgrade has worked. Your phone should now either boot back into DFU Mode or Recovery Mode. It should not go into userland. You can exit out of iTunes now. 
 
 ## 5. Boot!
-As I said before, this is a tethered downgrade meaning you have to boot the iPhone up from the computer every time you turn it off and back on again. You should now open up the redns0w application. Now, if your phone is in Recovery Mode (the iTunes Logo with a cable under it), put it into DFU Mode. If you need help, use [this article](http://www.jbfaq.com/article.asp?id=60). Otherwise, your phone should be in DFU Mode already if it is not in Recovery Mode. Select `Extras`. Click `Select iPSw` and select the iPSW file you downloaded in the first section of this article. Redsn0w should tell you that it has successfully identified iPSW. Now, in redsn0w, select `Just Boot`. Remember, since this is tethered you must repeat this step everytime you reboot/turn it on after a power off or dead battery. 
+As I said before, this is a tethered downgrade meaning you have to boot the iPhone up from the computer every time you turn it off and back on again. You should now open up the redns0w application. Now, if your phone is in Recovery Mode (the iTunes Logo with a cable under it), put it into DFU Mode. If you need help, use <a href="http://www.jbfaq.com/article.asp?id=60" target="_blank">this article</a>. Otherwise, your phone should be in DFU Mode already if it is not in Recovery Mode. Select `Extras`. Click `Select iPSw` and select the iPSW file you downloaded in the first section of this article. Redsn0w should tell you that it has successfully identified iPSW. Now, in redsn0w, select `Just Boot`. Remember, since this is tethered you must repeat this step everytime you reboot/turn it on after a power off or dead battery. 
 
 <center><h1>Congrats, you just downgraded :)</h1></center>
 

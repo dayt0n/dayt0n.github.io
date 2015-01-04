@@ -6,6 +6,8 @@ permalink: /downloads/index.html
 
 Links:
 ======
-Hey, check out this laughing derp for a test!
+Just some download links for files that are mentioned throughout my posts.
 
-[Click Me For a Laughing Derp](https://sites.google.com/site/dayt0nsfiles/downloads/275634_Papel-de-Parede-Meme-LOL_2048x1536.jpg?attredirects=0&d=1)
+### limera1n
+* [Mac Version](http://limera1n.com/limera1n.zip)
+* [Windows Version](http://limera1n.com/limera1n.exe)

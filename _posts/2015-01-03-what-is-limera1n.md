@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is limera1n?"
-description: "Devices with the limera1n vulnerability are the most fun device to play with."
+description: "Devices with the limera1n vulnerability are the most fun devices to play with."
 category: articles
 tags: [limera1n, iphone 4, info]
 image:
@@ -9,7 +9,7 @@ image:
 ---
 
 ## limera1n
-limera1n is a bootrom exploit found by `geohot` that works on all A4 and below devices. It is the last public bootrom exploit to be released to this day. A bootrom exploit is an exploit that can be run on a device with any iOS version. The reason I am talking about limera1n is because it will be mentioned often in my posts. I like to mess around with this exploit a lot and find out all of the cool stuff I can do with it. It has been made into a tethered jailbreak ([Mac](http://limera1n.com/limera1n.zip), [Windows](http://limera1n.com/limera1n.exe)) by geohot which you can untether using the `0x24000 Segment Overflow` exploit or the `Packet Filter Kernel Exploit`. 
+limera1n is a bootrom exploit found by `geohot` that works on all A4 and below devices. The last devices being the iPhone 4 GSM (1,1)(1,3) and the iPhone 4 CDMA (3,3). It is the last public bootrom exploit to be released to this day. A bootrom exploit is an exploit that can be run on a device with any iOS version. The reason I am talking about limera1n is because it will be mentioned often in my posts. I like to mess around with this exploit a lot and find out all of the cool stuff I can do with it. It has been made into a tethered jailbreak ([Mac](http://limera1n.com/limera1n.zip), [Windows](http://limera1n.com/limera1n.exe)) by geohot which you can untether using the `0x24000 Segment Overflow` exploit or the `Packet Filter Kernel Exploit`. 
 
 
 ## Code Executed

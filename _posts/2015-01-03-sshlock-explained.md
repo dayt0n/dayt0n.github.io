@@ -31,8 +31,7 @@ Jan  3 20:25:51 Dayt0ns-iPhone SpringBoard[1305] <Warning>: Telling backboard to
 
 I was playing with Conrad Kramer's utility [Open](http://cydia.saurik.com/package/com.conradkramer.open/) and I found the bundle identifier for the Setup.app. Curious about what would happen if I opened an app that was only supposed to be opened once, I used Kramer's tool on the bundle identifier: com.apple.purplebuddy. While hooked into syslog and executing the program, I noticed that it printed out the same log as above. Seeing my oppritunity to create a program that would not inject foreign code and safely lock the device, how could I resist? I created the utility so it opens up com.apple.purplebuddy and then, 0.5 seconds later (after lock process has been initiated), it kills Setup.app. So when you unlock your device, there is no trace of it ever being opened and you feel safe.
 
-##### Number of Times SSHLock Has Been Downloaded:
+#### Number of Times SSHLock Has Been Downloaded:
 <p></p><script type="text/javascript" src="http://modmyi.com/cstats/index.php?package=com.dayt0n.sshlock&output=text"></script>
-<p></p><iframe frameborder="0" src="http://www.youtube.com/embed/V5qT8EgSW7w?loop=1&autoplay=1&controls=0&showinfo=0&playlist=V5qT8EgSW7w" width="1000" height="931"></iframe>
 
 ### -dayt0n

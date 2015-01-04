@@ -32,3 +32,18 @@ Jan  3 20:25:51 Dayt0ns-iPhone SpringBoard[1305] <Warning>: Telling backboard to
 I was playing with Conrad Kramer's utility [Open](http://cydia.saurik.com/package/com.conradkramer.open/) and I found the bundle identifier for the Setup.app. Curious about what would happen if I opened an app that was only supposed to be opened once, I used Kramer's tool on the bundle identifier: com.apple.purplebuddy. While hooked into syslog and executing the program, I noticed that it printed out the same log as above. Seeing my oppritunity to create a program that would not inject foreign code and safely lock the device, how could I resist? I created the utility so it opens up com.apple.purplebuddy and then, 0.5 seconds later (after lock process has been initiated), it kills Setup.app. So when you unlock your device, there is no trace of it ever being opened and you feel safe.
 
 ### -dayt0n
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'dayt0n'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>

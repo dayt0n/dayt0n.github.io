@@ -12,7 +12,7 @@ image:
 I am not responsible for any damage that may occur if you do not follow these directions correctly. I am also currently fixing the only bug I have found so far. Please [tell me about any bugs you find](mailto:daytonhasty@gmail.com?subject=Downgrade%20Bug).
 
 ## 1. Preparation
-First, please do a fresh restore on your phone with a default, signed iPSW. Set it up and then continue. To configure your iTunes to accept the downgrade ipsw, you must install iTunes 11 ([32 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/url/dl) [64 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/64biturl/dl)). Once the iTunes 11 installer has downloaded, go into your Music folder and you will find the iTunes folder. Rename it to iTunes_orig. Then, you must go to ControlPanel>Uninstall a Program. Uninstall iTunes. Then run the iTunes 11 installer. 
+First, please do a fresh restore on your phone with a default, signed iPSW. Set it up and then continue. To configure your iTunes to accept the downgrade ipsw, you must install iTunes 11 ([32 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/url/dl) | [64 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/64biturl/dl)). Once the iTunes 11 installer has downloaded, go into your Music folder and you will find the iTunes folder. Rename it to iTunes_orig. Then, you must go to ControlPanel>Uninstall a Program. Uninstall iTunes. Then run the iTunes 11 installer. 
 
 Next, you will need to download the following items. Unzip if it is a zip file. I suggest you keep them on your desktop to have them easily accessible:
 

@@ -15,6 +15,7 @@ I am not responsible for any damage that may occur if you do not follow these di
 First, please do a fresh restore on your phone with a default, signed iPSW. Set it up and then continue. To configure your iTunes to accept the downgrade ipsw, you must install iTunes 11 ([32 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/url/dl) [64 bit](http://api.ios.icj.me/v2/iTunes/Windows/11/64biturl/dl)). Once the iTunes 11 installer has downloaded, go into your Music folder and you will find the iTunes folder. Rename it to iTunes_orig. Then, you must go to ControlPanel>Uninstall a Program. Uninstall iTunes. Then run the iTunes 11 installer. 
 
 Next, you will need to download the following items. Unzip if it is a zip file. I suggest you keep them on your desktop to have them easily accessible:
+
 * [The iPSW File you want to downgrade to](https://ipsw.me/) (Select iPhone 4 Model) If you are downgrading to iOS 6, download the <strong>6.0</strong> iPSW, not the one you want to downgrade to. 
 * [iReb](https://github.com/iH8sn0w/iREB-2.0/releases/r7/1097/ireb-r7.zip)
 * [Redsn0w 0.9.15 Beta 3](http://www.jailbreaktools.com/downloads/windows/redsn0w-0.9.15b3.zip)

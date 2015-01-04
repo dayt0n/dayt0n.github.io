@@ -8,9 +8,9 @@ image:
   feature: "limera1npaper.png"
 ---
 
-Limera1n
+limera1n
 ========
-Limera1n is
+limera1n is a bootrom exploit found by `geohot` that works on all A4 and below devices. It is the last public bootrom exploit to be released to this day. A bootrom exploit is an exploit that can be run on a device with any iOS version. The reason I am talking about limera1n is because it will be mentioned often in my posts. I like to mess around with this exploit a lot and find out all of the cool stuff I can do with it. It has been made into a tethered jailbreak ([Mac](http://limera1n.com/limera1n.zip), [Windows](http://limera1n.com/limera1n.exe)) which you can untether using the `0x24000 Segment Overflow` exploit or the `Packet Filter Kernel Exploit`. 
 
 
 Code Executed

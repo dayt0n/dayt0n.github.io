@@ -46,8 +46,8 @@ Every time an iOS device restores/boots with iTunes, it checks the random `nonce
 I have been using this method on my iPhone 4 (3,3) to have iOS 6.1.2 on it. I personally like iOS 6 on an iPhone 4 just because it is so much faster and fluid than iOS 7. iOS 7 is too laggy and heavy on the iPhone 4. Don't worry, if this method seems too difficult, just know that I am working on a way to fix the bugs I have told you about and just have you boot into PWNed DFU Mode and restore with iTunes and boot with redsn0w. I will basically just start mass producing iPSW files for every firmware of every iPhone 4 and iPod touch 3rd generation. Sound off in the comments about what you think of this tutorial. And as for an untether, I have enough work as it is with making this simpler and with school. An untether is not off of my to-do list though, I will tell you that :)
 
 # Credits
-<center>* Thanks to [CPVideoMaker](https://twitter.com/CPVideoMaker) for help with SHSH blobs and bug aid</center>
-<center>* Thanks to [iH8sn0w](https://twitter.com/iH8sn0w/) for iReb and iFaith</center>
-<cetner>* The [iPhone Dev Team](https://twitter.com/iphone_dev) for redsn0w</center>
+* <center>Thanks to [CPVideoMaker](https://twitter.com/CPVideoMaker) for help with SHSH blobs and bug aid</center>
+* <center>Thanks to [iH8sn0w](https://twitter.com/iH8sn0w/) for iReb and iFaith</center>
+* <center>The [iPhone Dev Team](https://twitter.com/iphone_dev) for redsn0w</center>
 
 <center><h3>-dayt0n</h3></center>

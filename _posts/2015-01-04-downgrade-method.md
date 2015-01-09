@@ -9,6 +9,8 @@ image:
 ---
 
 ## Disclaimer
+<center>[Update]: I have fixed the bug mentioned below. I am now working on an easier method of just downloading the iPSW file and restoring to it with iTunes 11.</center>
+
 I am not responsible for any damage that may occur if you do not follow these directions correctly. I am also currently fixing the only bug I have found so far. Please [tell me about any bugs you find](mailto:daytonhasty@gmail.com?subject=Downgrade%20Bug).
 
 ## 1. Preparation

@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Repo
 permalink: /repo
 ---
 

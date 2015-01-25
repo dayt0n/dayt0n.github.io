@@ -1,3 +1,3 @@
 ---
-permalink: /repo/index.html
+permalink: /repo
 ---

@@ -10,6 +10,10 @@ Links:
 ======
 Just some download links for files that are mentioned throughout my posts.
 
+### Jailbreaks
+## iOS 8.1.x
+* [TaiG](http://apt.taig.com/installer/en/TaiGJBreak_EN_1201.zip)
+
 ### Downgrade Files (Windows Only)
 * [iFaith](https://github.com/iH8sn0w/iFaith/releases/v1.5.9/1085/ifaith-v1.5.9.zip)
 * <a href="https://ipsw.me" target="_blank">iPSW Files</a>

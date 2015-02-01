@@ -31,8 +31,6 @@ links:
   - title: ipsw links
     url: https://ipsw.me
     external: true
-  - title: SSHLock
-    url: /articles/sshlock-explained
   - title: downloads
     url: /downloads
 

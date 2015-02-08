@@ -8,6 +8,9 @@ image:
   feature: techpaper4.png
 ---
 
+## Update:
+I have found out that distributing premade iPSW files over this site is, in fact <b>illegal</b>. The method below still works, but it is not patched. However, I can still tweet/email you a private link to a premade patched iPSW file. Follow me on [Twitter](http://twitter.com/daytonhasty) and request a link and I will direct message you one. If you would like to email me, [ask here](mailto:daytonhasty@gmail.com?subject=iPSW%20Downgrade%20Request&body=Tell%20me%20the%20iPhone%20Model%20Number%20found%20in%20Settings>General>About>Model.%20Also%20include%20the%20firmware%20you%20would%20like%20to%20downgrade%20to.)
+
 ## Disclaimer
 <center>[Update]: I have fixed the bug mentioned below. I am now working on an easier method of just downloading the iPSW file and restoring to it with iTunes 11.</center>
 

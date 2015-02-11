@@ -61,7 +61,7 @@ nvram -d DClr_override
 Reboot and it should be back to normal.
 
 ## Conclusion
-Messing with low-level components such as iBoot is very dangerous. If you were to mess up, the above method iBoot would refuse to load the `DeviceTree`. This will brick it permanently. The only thing your phone would be good for is either a paper weight or parts. And remember, this is just for customization and good fun. 
+Messing with low-level components such as iBoot is very dangerous. If you were to mess up the above method `iBoot`, would refuse to load the `DeviceTree`. This will brick it permanently. The only thing your phone would be good for is either a paper weight or parts. And remember, this is just for customization and good fun. 
 
 ### Special Thanks To [@xerub](http://twitter.com/xerub)
 

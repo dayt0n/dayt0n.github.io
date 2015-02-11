@@ -13,7 +13,7 @@ image:
 
 Here is a video of it in action: 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Q59eyFqzjjM" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="420" height="315" src="https://www.youtube.com/embed/Q59eyFqzjjM" frameborder="0" allowfullscreen></iframe></center>
 
 ### Algorithm
 A device determines the boot color using the algorithm: `DClr_override` is read from an `nvram` variable. If it is not present, than it attempts to read `DClr` from `Syscfg`. If `DClr` is not in `Syscfg`, it is read from `ClrC`. 

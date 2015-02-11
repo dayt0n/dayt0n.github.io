@@ -22,7 +22,7 @@ ClrC: 00000000000000000000000000000000
 ClrC: 01000000000000000000000000000000
 {% endhighlight %}
  
-This basically translates to `ClrC`[0]: default black iPhone logo and `ClrC`[1]: default white iPhone logo.
+This basically translates to `ClrC[0]`: default black iPhone logo and `ClrC[1]`: default white iPhone logo.
 
 ## How To Change the Logo
 

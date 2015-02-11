@@ -11,6 +11,10 @@ image:
 ## Explanation of DClr
 `DClr` is a variable inside of iBoot that determines what color the Apple logo should be on boot. It only exists on the iPhone 5 and up. It is composed of 32 hex characters, consisting of 16 bytes. `DClr` determines the color of the logo until SpringBoard begins to launch. Once SpringBoard launches, it uses a different method to determine device color. On the black (or space grey) iPhone, the default "black" logo is: ![blacklogo](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/blacklogo.png) On the white, silver, or gold iPhone, the default "white" logo is: ![whitelogo.png](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/whitelogo.png)
 
+Here is a video of it in action: 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Q59eyFqzjjM" frameborder="0" allowfullscreen></iframe>
+
 ### Algorithm
 A device determines the boot color using the algorithm: `DClr_override` is read from an `nvram` variable. If it is not present, than it attempts to read `DClr` from `Syscfg`. If `DClr` is not in `Syscfg`, it is read from `ClrC`. 
 

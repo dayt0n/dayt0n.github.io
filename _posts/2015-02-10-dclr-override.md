@@ -27,7 +27,7 @@ This basically translates to `ClrC[0]`: default black iPhone logo and `ClrC[1]`:
 ## How To Change the Logo
 
 # Disclaimer
-I am not responsible for any damage that may happen to any devices because of this method. I have only tested this on iPhones and not any iPads. It does not work on any device below an iPhone 5. If you do not follow this guide `exactly`, you WILL permanently brick your device. No tether boot or restore, for that matter will help you if you mess up. Good luck!
+I am not responsible for any damage that may happen to any devices because of this method. I have only tested this on iPhones and not any iPads. It does not work on any device below an iPhone 5. If you do not follow this guide `exactly`, you WILL permanently brick your device. No tether boot or restore, for that matter, will help you if you mess up. Good luck!
 
 ### 1. Jailbreak
 A jailbreak is needed to edit `nvram` variables. Jailbreak and install OpenSSH or some other tool to access the command line (I highly suggest OpenSSH though, so you can easily copy and paste the following code from your computer). TRIPLE check all of the code you execute in this process. I cannot stress this enough.

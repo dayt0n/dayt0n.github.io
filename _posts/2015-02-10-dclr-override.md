@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DClr Override"
+title: "DClr_Override"
 description: "And so, the low-level programming begins..."
 category: articles
 tags: [iBoot, DClr, low-level, iPhone 5, xerub, override, ClrC, Syscfg, nvram]

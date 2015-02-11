@@ -9,7 +9,7 @@ image:
 ---
 
 ## Explanation of DClr
-`DClr` is a variable inside of iBoot that determines what color the Apple logo should be on boot. It only exists on the iPhone 5 and up. It is composed of 32 hex characters, consisting of 16 bytes. `DClr` determines the color of the logo until SpringBoard begins to launch. Once SpringBoard launches, it uses a different method to determine device color. On the black (or space grey) iPhone, the default "black" logo is: ![blacklogo](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/blacklogo.png) On the white iPhone, the default "white" logo is: ![whitelogo.png](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/whitelogo.png)
+`DClr` is a variable inside of iBoot that determines what color the Apple logo should be on boot. It only exists on the iPhone 5 and up. It is composed of 32 hex characters, consisting of 16 bytes. `DClr` determines the color of the logo until SpringBoard begins to launch. Once SpringBoard launches, it uses a different method to determine device color. On the black (or space grey) iPhone, the default "black" logo is: ![blacklogo](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/blacklogo.png) On the white, silver, or gold iPhone, the default "white" logo is: ![whitelogo.png](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/whitelogo.png)
 
 ### Algorithm
 A device determines the boot color using the algorithm: `DClr_override` is read from an `nvram` variable. If it is not present, than it attempts to read `DClr` from `Syscfg`. If `DClr` is not in `Syscfg`, it is read from `ClrC`. 
@@ -30,7 +30,7 @@ This basically translates to `ClrC[0]`: default black iPhone logo and `ClrC[1]`:
 I am not responsible for any damage that may happen to any devices because of this method. I have only tested this on iPhones and not any iPads. It does not work on any device below an iPhone 5. If you do not follow this guide `exactly`, you WILL permanently brick your device. No tether boot or restore, for that matter will help you if you mess up. Good luck!
 
 ### 1. Jailbreak
-A jailbreak is needed to edit `nvram` variables. Jailbreak and install OpenSSH or some other tool to access the command line (I highly suggest OpenSSH though, so you can easily copy and paste the following code). TRIPLE check all of the code you execute in this process. I cannot stress this enough.
+A jailbreak is needed to edit `nvram` variables. Jailbreak and install OpenSSH or some other tool to access the command line (I highly suggest OpenSSH though, so you can easily copy and paste the following code from your computer). TRIPLE check all of the code you execute in this process. I cannot stress this enough.
 
 ### 2. Edit nvram
 Acess the command line using the preferred method from above and copy and paste the following commands `exactly`. If you are using an black or space grey iPhone and want to get the "white" logo, execute 

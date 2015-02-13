@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Latin Class
-permalink: /latin
+title: "Latin Class"
+permalink: /latin/index.html
 image
    feature: latin.jpg
 ---
@@ -12,7 +12,6 @@ image
 ![Screenshot 2](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Screenshots/LatinScreenshot2-2-11-15.png)
 
 # Latest Program:
-===============
 
 {% highlight c %}
 #!/bin/sh
@@ -277,12 +276,22 @@ exit
 ## Pervious Programs
 
 [Chapter 10](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-1:27:15)
+
 [Chapter 9](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-1:08:15)
+
 [Chapter 8](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-12:3:14)
+
 [Chapter 7](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-11:13:14)
+
 [Chapter 6](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-11:02:14)
+
 [Chapter 5](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-10:21:14)
+
 [Chapter 4](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-9:30:14)
+
 [Chapter 3](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-9:10:14)
+
 [Chapter 2: Did Flashcards]()
+
 [Chapter 1](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-8:20:14)
+

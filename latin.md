@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Latin Class
-permalink: /latin/index.html
+permalink: /latin
 image
    feature: latin.jpg
 ---

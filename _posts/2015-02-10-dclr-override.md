@@ -9,7 +9,7 @@ image:
 ---
 
 # Update:
-So I hear a lot of you have bricked your devices using this method. I am sorry. I put the hefty disclaimer here for a reason. The following devices work: iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus, iPad Mini 2, iPad Air, iPad Air 2. Other than that, I have no idea what other devices work with this. Devices that definately do `not` work are the iPhone 2G-4S, the iPhone 5C, and the iPad 3. Not sure about the iPad 4 though, but do not try it. Comment which devices work for you, but DO NOT TEST IT. I would suggest steering clear of here if you do not see your device above, but hey, if you want to potentially ruin your device, go ahead. 
+So I hear a lot of you have bricked your devices using this method. I am sorry. I put the hefty disclaimer here for a reason. The following devices work: iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus, iPad Mini 2, iPad Air, iPad Air 2. Other than that, I have no idea what other devices work with this. Devices that definately do `not` work are the iPhone 2G-4S, the iPhone 5C, and the iPad1-3. Not sure about the iPad 4 though, but do not try it. Comment which devices work for you, but DO NOT TEST IT. I would suggest steering clear of here if you do not see your device above, but hey, if you want to potentially ruin your device, go ahead. 
 
 
 ## Explanation of DClr

@@ -8,6 +8,10 @@ image:
     feature: techpaper6.png
 ---
 
+# Update:
+So I hear a lot of you have bricked your devices using this method. I am sorry. I put the hefty disclaimer here for a reason. The following devices work: iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus, and iPad Air 2. Other than that, I have no idea what other devices work with this. Comment which devices work for you, but DO NOT TEST IT. I would suggest steering clear of here if you do not see your device above, but hey, if you want to potentially ruin your device, go ahead. 
+
+
 ## Explanation of DClr
 `DClr` is a variable inside of iBoot that determines what color the Apple logo should be on boot. It only exists on the iPhone 5 and up. It is composed of 32 hex characters, consisting of 16 bytes. `DClr` determines the color of the logo until SpringBoard begins to launch. Once SpringBoard launches, it uses a different method to determine device color, probably `libMobileGestalt.dylib`, which is responsible for determining disk usage, UDID, serial number, device version, and unfortunately for us, the real color. On the black (or space grey) iPhone, the default "black" logo is: ![blacklogo](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/blacklogo.png) On the white, silver, or gold iPhone, the default "white" logo is: ![whitelogo.png](https://raw.githubusercontent.com/dayt0n/dayt0n.github.io/master/images/whitelogo.png)
 

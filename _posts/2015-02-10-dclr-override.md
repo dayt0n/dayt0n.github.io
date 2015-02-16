@@ -9,7 +9,7 @@ image:
 ---
 
 # Update:
-So I hear a lot of you have bricked your devices using this method. I am sorry. I put the hefty disclaimer here for a reason. The following devices work: iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus, and iPad Air 2. Other than that, I have no idea what other devices work with this. Comment which devices work for you, but DO NOT TEST IT. I would suggest steering clear of here if you do not see your device above, but hey, if you want to potentially ruin your device, go ahead. 
+So I hear a lot of you have bricked your devices using this method. I am sorry. I put the hefty disclaimer here for a reason. The following devices work: iPhone 5, iPhone 5S, iPhone 6, iPhone 6 plus, iPad Mini 2, iPad Air, iPad Air 2. Other than that, I have no idea what other devices work with this. Devices that definately do `not` work are the iPhone 2G-4S, the iPhone 5C, and the iPad 3. Not sure about the iPad 4 though, but do not try it. Comment which devices work for you, but DO NOT TEST IT. I would suggest steering clear of here if you do not see your device above, but hey, if you want to potentially ruin your device, go ahead. 
 
 
 ## Explanation of DClr
@@ -35,7 +35,7 @@ This basically translates to `ClrC[0]`: default black iPhone logo and `ClrC[1]`:
 ## How To Change the Logo
 
 # Disclaimer
-I am not responsible for any damage that may happen to any devices because of this method. I have only tested this on iPhones and not any iPads. It does not work on any device below an iPhone 5. `However, it bricks the 5C`. If you do not follow this guide `exactly`, you WILL permanently brick your device. No tether boot or restore, for that matter, will help you if you mess up. Good luck!
+I am not responsible for any damage that may happen to any devices because of this method. I have only tested this on iPhones and not any iPads. It does not work on any device below an iPhone 5. The top of this page has an update with device lists of what works and what doesn't work. If you do not follow this guide `exactly`, you WILL permanently brick your device. No tether boot or restore, for that matter, will help you if you mess up. Good luck!
 
 ### 1. Jailbreak
 A jailbreak is needed to edit `nvram` variables. Jailbreak and install OpenSSH or some other tool to access the command line (I highly suggest OpenSSH though, so you can easily copy and paste the following code from your computer). TRIPLE check all of the code you execute in this process. I cannot stress this enough.
@@ -65,7 +65,7 @@ nvram -d DClr_override
 Reboot and it should be back to normal.
 
 ## Conclusion
-Messing with low-level components such as iBoot is very dangerous. If you were to mess up the above method `iBoot`, would refuse to load the `DeviceTree`. This will brick it permanently. The only thing your phone would be good for is either a paper weight or parts. And remember, this is just for customization and good fun. 
+Messing with low-level components such as iBoot is very dangerous. If you were to mess up the above method `iBoot`, would refuse to load the `DeviceTree`. This will brick it permanently. The only thing your phone would be good for is either a paper weight or parts. And remember, this is just for customization and educational purposes. 
 
 ### Special Thanks To [@xerub](http://twitter.com/xerub)
 

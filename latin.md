@@ -275,7 +275,7 @@ fi
 exit
 {% endhighlight %}
 
-## Pervious Programs
+## Previous Programs
 
 [Chapter 10](https://raw.githubusercontent.com/dayt0n/Latin-Class/master/Latin-Vocab-1:27:15)
 

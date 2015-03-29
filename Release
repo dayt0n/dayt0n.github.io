@@ -1,0 +1,8 @@
+Origin: dayt0nsrepo
+Label: dayt0n
+Suite: stable
+Version: 1.0
+Codename: dayt0nsrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Just a repo for betas and really cool utilities.

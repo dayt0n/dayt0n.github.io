@@ -5,5 +5,5 @@ description: "Add `dayt0n.github.io/repo` to your Cydia sources to access a few 
 category: repo
 tags: [repo]
 image:
-feature: repo.jpg
+    feature: repo.jpg
 ---

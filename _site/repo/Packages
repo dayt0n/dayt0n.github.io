@@ -1,0 +1,15 @@
+Package: com.dayt0n.sshlock
+Version: 1.1.0-3
+Section: System
+Maintainer: Dayt0n
+Depends: com.conradkramer.open
+Architecture: iphoneos-arm
+Filename: debs//com.dayt0n.sshlock_1.1.0-3_iphoneos-arm.deb
+Size: 2178
+Installed-Size: 52
+MD5sum: ba56832a42a2950c29277a3a6f6c4918
+Description: A command line utility to lock a device since the ‘sblock’ function is broken for newer versions of iOS in the package ’sbutils’. This utilizes a bug in the Setup.app directory. Requires iOS 7 or iOS 8. Thanks to Conrad Kramer for ‘open’ dependency.
+author: Dayt0n
+tag: role::hacker
+name: SSH Lock
+

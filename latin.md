@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Latin Class"
+title: "Latin"
+description: "Just some homework.."
 category: latin
-image
-   feature: latin.jpg
+tags: [Latin, homework]
+image:
+    feature: latin.jpg
 ---
 
 ## Screenshots:

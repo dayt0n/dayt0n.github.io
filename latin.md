@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Latin Class"
-permalink: /latin/index.html
+category: latin
 image
    feature: latin.jpg
 ---

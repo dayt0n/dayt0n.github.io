@@ -2,7 +2,7 @@
 layout: post
 title: "Thank you"
 description: "Today, I looked back on everything that has happened in the past few years."
-category: articles
+category: thanks
 tags: [thank, you]
 image:
     feature: paper1.jpg

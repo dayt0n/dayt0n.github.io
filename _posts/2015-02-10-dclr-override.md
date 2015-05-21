@@ -70,3 +70,10 @@ Messing with low-level components such as iBoot is very dangerous. If you were t
 ### Special Thanks To [@xerub](http://twitter.com/xerub)
 
 <center><h3>-dayt0n</h3></center>
+
+
+
+{% highlight c %}
+User$ ./xpwntool `unzip -j hm 'ignore/medawg*' | awk '/inflating/{print $2}'` nothingHere
+{% endhighlight %}
+

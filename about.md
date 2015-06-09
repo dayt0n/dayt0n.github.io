@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: About Me
-description: I am a 14 year old who has been working with iOS for going on 2 years now. I spend a lot of my time writing programs that pop into my mind and exploiting iOS. I do most of my work on OS X.
+description: I am a 15 year old who has been working with iOS for going on 2 years now. I spend a lot of my time writing programs that pop into my mind and exploiting iOS. I do most of my work on OS X.
 tags: [about, me, dayt0n]
 image:
   feature: techpaper1.png

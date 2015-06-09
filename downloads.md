@@ -10,6 +10,9 @@ Links:
 ======
 Just some download links for files that are mentioned throughout my posts.
 
+### Odysseus
+* [Odysseus v0.1](dayt0n.github.io/odysseus/odysseus-0.1.zip) (Mac and Linux)
+
 ### Jailbreaks
 
 #### iOS 8.1.x

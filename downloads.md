@@ -11,7 +11,7 @@ Links:
 Just some download links for files that are mentioned throughout my posts.
 
 ### Odysseus
-* [Odysseus v0.3](http://dayt0n.github.io/odysseus/odysseus-0.3.zip) (Mac and Linux)
+* [Odysseus v0.4](http://dayt0n.github.io/odysseus/odysseus-0.4.zip) (Mac and Linux)
 
 ### Jailbreaks
 

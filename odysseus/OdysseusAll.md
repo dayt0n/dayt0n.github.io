@@ -1,3 +1,7 @@
+---
+permalink: /odysseusAll/index.html
+---
+
 [Odysseus v0.1](http://dayt0n.github.io/odysseus/odysseus-0.1.zip)
 
 [Odysseus v0.2](http://dayt0n.github.io/odysseus/odysseus-0.2.zip)

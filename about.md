@@ -29,6 +29,5 @@ I am currently working on a downgrade for any `limera1n` devices. Other than tha
 ###Contact Me
 If you would like to get in touch with me, feel free to 
 
-* [Email Me](mailto:daytr0n@webbschool.com)
+* [Email Me](mailto:daytonhasty@gmail.com)
 * [Tweet Me](https://twitter.com/daytonhasty)
-* [Find Me on Instagram?](http://instagram.com/daytonhasty)

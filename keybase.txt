@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/dayt0n
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dayt0n.com
+  * I am dayt0n (https://keybase.io/dayt0n) on keybase.
+  * I have a public key with fingerprint 8A79 56D1 20F0 CB11 9114  B498 EE9D 4D84 EDBC 06AF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "8a7956d120f0cb119114b498ee9d4d84edbc06af",
+            "host": "keybase.io",
+            "key_id": "ee9d4d84edbc06af",
+            "kid": "0101a8138b3fceac524e50ef40f76aa7f758dcce8ea6b3dee533804f343a7b1d86920a",
+            "uid": "1c2bddce67bd6e937a5c7dbfe7d3a019",
+            "username": "dayt0n"
+        },
+        "service": {
+            "hostname": "dayt0n.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437628620,
+    "expire_in": 157680000,
+    "prev": "04e4a6181e7bf51cc6c1bc6c40aa16714040c3ecf7adac5de6d26ce669155674",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIZAnicbVJbbExBGN5tEV0h4hK3kvQoDWmamT1zZs5uiZC4PlCXomjWnJk57UnZ
+s909ra0qbygioWjrGrdoImmFyNJL0rqUYiNFiL64xiVEiD4QTWpOw4PEPMxkvv/7
+vpn/y39reKrH563w/Xi3rrk24r3fMavMk38p/qBSMWxeoQQrlRIxcJhWuEhEI1Er
+7ChBRackoGEO/cAEzIAwACEyUEAXIsAR15HgBgOYmkq2UmzHXIW0MWhM5Fi2xOQl
+ZHGJ/odfMlAAEECqQ1U3VJMJyjQ/EhoQJgImwZQSk2g6Z0zogmJD5UJoqqoDZKpI
+pcSAXMcBP6DSrmzADjK/wTkTmBgci4BKqMYIN0xBuEoBDLjEmIiG6WYh2ZxWOCCs
+VGUrEiu3mHADcPv4p57D7M1SF4najs3sTRIvdpxI0JU5FRGXt0UYoT8OIcMKcxmh
+FJSLaMyyw0oQSiZzLNcSIpVgv479IFsR8YgVFSHLZWgE60Au9xlR7uaCBKIY6lAQ
+w9QgY5hBQ24IUAoxgQggwFTBTEK5TI0LzP1Y9o0DUNMwQYrbU2nYVoKq/CYtkpYx
+qyhMnbKoUKputG8Y5PH6PEMGp7hD4PGljfw7Gq/JUM/3a8daqpPFB5Z0TeuccdRa
+ee3jx/6MnDvDLHGxeePqRFl7wYdUbyPIbXg5J6VkWeba0mdLq7qeqYsjaRNG72yN
++Xq2aYen/8qoij88f+7NorTu5Y++vnmSHCsmfp5aUBMv+DL5+apJ6rzZez+heO3J
+toWZp9CWccvUrpv9yfrkzQd5DTX1Jy531r3rObi3+8rWwvS7HVd6s9qeX11Tl/r0
+5/u8EWcXtI7L353yo8+wXzWPj38LJeiJ3JaZBU3xt71Ta4/PzeoONfp2nV63fvz+
+bFKYtzyUuD8qkd65r75pN5i84/rthdBZu2eSMqV6BJh/5FDf2xcXRtZcfnymp/ze
+9jErVDFq6G9JVyuG
+=UThC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dayt0n
+
+==================================================================
+

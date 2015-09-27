@@ -6,7 +6,7 @@
 	<string>com.usbmux.itunnel</string>
 	<key>ProgramArguments</key>
 	<array>
-		<string>/path/to/itnl</string>
+		<string>itnl</string>
 		<string>--iport</string>
 		<string>22</string>
 		<string>--lport</string>
